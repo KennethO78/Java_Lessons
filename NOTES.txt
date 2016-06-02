@@ -1,0 +1,66 @@
+// NOTES
+
+//Packages are
+//
+//Classes
+//Interfaces
+//Methods
+//Constants
+//Variables
+//Type parameters
+
+
+//Classes
+//
+//ArrayList
+//LinkedList
+//String
+//TopSong
+//GearBox
+//Main
+
+
+//Method Names
+//
+//mixedCase
+//Often verbs
+//Reflect the function performed or the result returned
+//Examples:
+//        .size()
+//        .getName()
+//        .addPlayer()
+
+
+//Constants
+//
+//All UPPER_CASE
+//Separate words with uderscore _
+//Declared using final keyword
+//Examples:
+//        static final int MAX_INT
+//        static final short SEVERITY_ERROR
+//        static final double PI = 3.14
+
+
+//Variable Names
+//
+//mixedCase
+//Meaningful and indicative
+//Start with lower case letter
+//Do not use underscores _
+//Examples:
+//        i
+//        league      
+//        sydneySwans
+//        boxLength
+
+
+//Type Parameters  ---  generics
+//        
+//Single character, Capital letters    
+//E - Element
+//K - Key
+//N - Number
+//T - Type
+//V - Value
+//S,U,V etc. - 2nd, 3rd, 4th types
